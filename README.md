@@ -10,13 +10,13 @@
 <h2>🔖 See the results</h2>
 
 <p>You can view the figma layout through the link below:</p>
-<li><a href="https://www.figma.com/file/bqcnzsVsHcnDQlpdrCNj3h/Ignite-Lab-Design-System?node-id=0%3A1">Figma Layout</a></li>
+<li><a target="_blank" href="https://www.figma.com/file/bqcnzsVsHcnDQlpdrCNj3h/Ignite-Lab-Design-System?node-id=0%3A1">Figma Layout</a></li>
 
 <p>You can view the project through the link below:</p>
-<li><a href="https://ignitelab-designsystem.netlify.app/">Live Preview</a></li>
+<li><a target="_blank" href="https://ignitelab-designsystem.netlify.app/">Live Preview</a></li>
 
 <p>You can view the storybook component docs through the link below:</p>
-<li><a href="https://marianapcorrea.github.io/Design-System-Ignite-Lab/">Storybook coonents docs</a></li>
+<li><a target="_blank" href="https://marianapcorrea.github.io/Design-System-Ignite-Lab/">Storybook components docs</a></li>
 
 
 <br>
@@ -27,12 +27,12 @@
 
 <p>This project was developed using:</p>
 <ul>
-<li><a href="https://reactjs.org/">ReactJS</a></li>
-<li><a href="https://tailwindcss.com">TailwindCSS</a></li>
-<li><a href="https://figma.com">Figma</a></li>
-<li><a href="https://storybook.js.org">Storybook</a></li>
-<li><a href="https://vitejs.dev">Vite</a></li>
-<li><a href="https://www.radix-ui.com">RadixUI</a></li>
+<li><a target="_blank"  href="https://reactjs.org/">ReactJS</a></li>
+<li><a target="_blank"  href="https://tailwindcss.com">TailwindCSS</a></li>
+<li><a target="_blank"  href="https://figma.com">Figma</a></li>
+<li><a target="_blank"  href="https://storybook.js.org">Storybook</a></li>
+<li><a target="_blank"  href="https://vitejs.dev">Vite</a></li>
+<li><a target="_blank"  href="https://www.radix-ui.com">RadixUI</a></li>
 </ul>
 
 
